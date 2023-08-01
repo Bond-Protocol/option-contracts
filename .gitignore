@@ -1,0 +1,7 @@
+out/
+cache/
+node_modules/
+.env
+broadcast/
+cache_hardhat/
+artifacts/

@@ -1,0 +1,4 @@
+test/**/*.sol
+scripts/**/*.sol
+lib/**/*.sol
+src/lib/**/*.sol
