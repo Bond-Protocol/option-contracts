@@ -109,9 +109,8 @@ The source code of this project is licensed under the [AGPL 3.0 license](LICENSE
 
 | Contract                | Address                                    | Goerli                                                                                             | Arbitrum Goerli                                                                                  |
 | ----------------------- | ------------------------------------------ | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| RolesAuthority          | 0xa596f274CBDEF6e3A916D53E0B7AF8988119F343 | [Goerli Etherscan](https://goerli.etherscan.io/address/0xa596f274CBDEF6e3A916D53E0B7AF8988119F343) | [Goerli Arbiscan](https://goerli.arbiscan.io/address/0xa596f274CBDEF6e3A916D53E0B7AF8988119F343) |
-| FixedStrikeOptionTeller | 0x5C9448c52760Be7E650380e3c635972E8182C6F4 | [Goerli Etherscan](https://goerli.etherscan.io/address/0x5C9448c52760Be7E650380e3c635972E8182C6F4) | [Goerli Arbiscan](https://goerli.arbiscan.io/address/0x5C9448c52760Be7E650380e3c635972E8182C6F4) |
-| MOLMFactory             | 0xFd6A1211906E067C684725fBc665ec5EDea7d15A | [Goerli Etherscan](https://goerli.etherscan.io/address/0xFd6A1211906E067C684725fBc665ec5EDea7d15A) | [Goerli Arbiscan](https://goerli.arbiscan.io/address/0xFd6A1211906E067C684725fBc665ec5EDea7d15A) |
-| OOLMFactory             | 0x92e2653Ec44BDe44a1EB35314550b9F81c81D6aF | [Goerli Etherscan](https://goerli.etherscan.io/address/0x92e2653Ec44BDe44a1EB35314550b9F81c81D6aF) | [Goerli Arbiscan](https://goerli.arbiscan.io/address/0x92e2653Ec44BDe44a1EB35314550b9F81c81D6aF) |
+| FixedStrikeOptionTeller | 0xF507FE74a1c183836fCd524d46262a091C664072 | [Goerli Etherscan](https://goerli.etherscan.io/address/0xF507FE74a1c183836fCd524d46262a091C664072) | [Goerli Arbiscan](https://goerli.arbiscan.io/address/0xF507FE74a1c183836fCd524d46262a091C664072) |
+| MOLMFactory             | 0x3013F6E1193bA63e26E07DF1A57DE6e31164C073 | [Goerli Etherscan](https://goerli.etherscan.io/address/0x3013F6E1193bA63e26E07DF1A57DE6e31164C073) | [Goerli Arbiscan](https://goerli.arbiscan.io/address/0x3013F6E1193bA63e26E07DF1A57DE6e31164C073) |
+| OOLMFactory             | 0x0013F095eed13bab6f29575748CB954718Fe1223 | [Goerli Etherscan](https://goerli.etherscan.io/address/0x0013F095eed13bab6f29575748CB954718Fe1223) | [Goerli Arbiscan](https://goerli.arbiscan.io/address/0x0013F095eed13bab6f29575748CB954718Fe1223) |
 
 ### Production
