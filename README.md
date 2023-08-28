@@ -2,7 +2,7 @@
 
 Smart contracts for Option Token (oToken) Liquidity Mining.
 
-Read the [full developer documentation](https://docs.bondprotocol.finance/smart-contracts/option-system) at docs.bondprotocol.finance
+[Developer Documentation](https://dev.bondprotocol.finance/smart-contracts/option-system).
 
 ## Background
 
