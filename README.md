@@ -109,8 +109,13 @@ The source code of this project is licensed under the [AGPL 3.0 license](LICENSE
 
 | Contract                | Address                                    | Goerli                                                                                             | Arbitrum Goerli                                                                                  |
 | ----------------------- | ------------------------------------------ | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| FixedStrikeOptionTeller | 0xF507FE74a1c183836fCd524d46262a091C664072 | [Goerli Etherscan](https://goerli.etherscan.io/address/0xF507FE74a1c183836fCd524d46262a091C664072) | [Goerli Arbiscan](https://goerli.arbiscan.io/address/0xF507FE74a1c183836fCd524d46262a091C664072) |
-| MOLMFactory             | 0x3013F6E1193bA63e26E07DF1A57DE6e31164C073 | [Goerli Etherscan](https://goerli.etherscan.io/address/0x3013F6E1193bA63e26E07DF1A57DE6e31164C073) | [Goerli Arbiscan](https://goerli.arbiscan.io/address/0x3013F6E1193bA63e26E07DF1A57DE6e31164C073) |
-| OOLMFactory             | 0x0013F095eed13bab6f29575748CB954718Fe1223 | [Goerli Etherscan](https://goerli.etherscan.io/address/0x0013F095eed13bab6f29575748CB954718Fe1223) | [Goerli Arbiscan](https://goerli.arbiscan.io/address/0x0013F095eed13bab6f29575748CB954718Fe1223) |
+| FixedStrikeOptionTeller | 0xF507733f260a42bB2c8108dE87B7B0Ce5826A9cD | [Goerli Etherscan](https://goerli.etherscan.io/address/0xF507733f260a42bB2c8108dE87B7B0Ce5826A9cD) | [Goerli Arbiscan](https://goerli.arbiscan.io/address/0xF507733f260a42bB2c8108dE87B7B0Ce5826A9cD) |
+| MOLMFactory             | 0x301378372314F1976d054f159FC9A5CDCA040FC0 | [Goerli Etherscan](https://goerli.etherscan.io/address/0x301378372314F1976d054f159FC9A5CDCA040FC0) | [Goerli Arbiscan](https://goerli.arbiscan.io/address/0x301378372314F1976d054f159FC9A5CDCA040FC0) |
+| OOLMFactory             | 0x0013d3a7aF301f235eecc1a85F9fdaA72038A75b | [Goerli Etherscan](https://goerli.etherscan.io/address/0x0013d3a7aF301f235eecc1a85F9fdaA72038A75b) | [Goerli Arbiscan](https://goerli.arbiscan.io/address/0x0013d3a7aF301f235eecc1a85F9fdaA72038A75b) |
 
 ### Production
+
+| Contract                | Address                                    | Mainnet                                                                              | Arbitrum                                                                           |
+| ----------------------- | ------------------------------------------ | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| FixedStrikeOptionTeller | 0xF507733f260a42bB2c8108dE87B7B0Ce5826A9cD | [Etherscan](https://etherscan.io/address/0xF507733f260a42bB2c8108dE87B7B0Ce5826A9cD) | [Arbiscan](https://arbiscan.io/address/0xF507733f260a42bB2c8108dE87B7B0Ce5826A9cD) |
+| MOLMFactory             | 0x301378372314F1976d054f159FC9A5CDCA040FC0 | [Etherscan](https://etherscan.io/address/0x301378372314F1976d054f159FC9A5CDCA040FC0) | [Arbiscan](https://arbiscan.io/address/0x301378372314F1976d054f159FC9A5CDCA040FC0) |
